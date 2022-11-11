@@ -21,8 +21,18 @@
 >
 ## Narrativa - Produto
 * Os produtos são vendidos por uma única plataforma online. Contudo, estes podem ter vendedores distintos (terceiros)
-* Cada produto possui um fornecedor
+* Cada produto possui um ou mais fornecedores
 * Um ou mais produtos podem compor um pedido
+>
+## Narrativa – Pedido
+* O pedidos são criados por clientes e possuem informações de compra, endereço e status da entrega
+* Um produto ou mais compoem o pedido
+* O pedido pode ser cancelado
+>
+## Narrativa – Fornecedor & estoque
+* Os fornecedores podem fornecer diversos produtos 
+* O E-commerce possui diversos estoques espalhados pelo Brasil
+
 
 
 
